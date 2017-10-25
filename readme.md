@@ -1,10 +1,10 @@
-скрипт для создания и наполнения тестовыми данными БД - createTable.sql, 
+скрипт для создания и наполнения тестовыми данными БД - createTable.sql 
 
-database - test, 
+database - test 
 
-table - users, 
+table - users 
 
-user - root, 
+user - root 
 
 password - root
 
