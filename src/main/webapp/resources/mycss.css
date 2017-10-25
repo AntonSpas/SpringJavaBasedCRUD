@@ -1,0 +1,184 @@
+		body {
+            background-image: url(1.jpg);
+            background-size: cover;
+        }
+
+        .tg {
+            border-collapse: collapse;
+            border-spacing: 0;
+            border-color: #ccc;
+        }
+
+        .tg td {
+            font-family: "Brush Script MT", "Monotype Corsiva", Mistral, cursive;
+            font-size: 20px;
+            font-weight: 500;
+            padding: 12px;
+            border-style: solid;
+            border-width: 0;
+            border-color: #ccc;
+            overflow: hidden;
+            word-break: normal;
+            color: sienna;
+            background-color: #fff;
+            opacity: 0.8;
+        }
+
+        .tg th {
+            font-family: "Brush Script MT", "Monotype Corsiva", Mistral, cursive;
+            font-size: 22px;
+            font-weight: 600;
+            padding: 16px;
+            border-style: solid;
+            border-width: 0;
+            border-color: #ccc;
+            overflow: hidden;
+            word-break: normal;
+            color: saddlebrown;
+            background-color: #fff;
+            opacity: 0.8;
+        }
+
+        .header {
+            font-family: "Monotype Corsiva", "Brush Script MT", cursive;
+            font-size: 28px;
+            font-weight: 900;
+            color: khaki;
+            padding: 10px 5px;
+            border-width: 0px;
+            align-content: center;
+            align-items: center;
+            opacity: 0.8;
+        }
+
+        .form {
+            font-family: "Brush Script MT", "Monotype Corsiva", Mistral, cursive;
+            font-size: 18px;
+            font-weight: lighter;
+            padding: 5px 5px;
+            border-width: 0;
+            align-content: center;
+            align-items: center;
+            background-color: #ffffff;
+            opacity: 0.8;
+        }
+
+        .form2 {
+            font-family: "Brush Script MT", "Monotype Corsiva", Mistral, cursive;
+            font-size: 18px;
+            font-weight: lighter;
+            padding: 10px 15px;
+            border: 0 #ffffff;
+            align-content: center;
+            align-items: center;
+            background-color: #ffffff;
+        }
+
+        .font {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            font-weight: 500;
+            font-style: italic;
+        }
+
+        .font2 {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            font-weight: 500;
+            color: #ff5c33;
+        }
+
+        .font3 {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            font-weight: 500;
+            color: #ffffff;
+            opacity: 0.8;
+        }
+
+        .material {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            font-weight: lighter;
+            padding: 10px 15px;
+            border: 0px solid #eeeeee;
+            align-content: center;
+            align-items: center;
+            word-spacing: 20px;
+        }
+
+        .btn {
+            width: 100%;
+            height: 44px;
+            font-size: 18px;
+            border: 0px solid #253737;
+            background: chocolate;
+            padding: 10px 21px;
+            -webkit-border-radius: 0px;
+            -moz-border-radius: 0px;
+            border-radius: 0px;
+            color: lightgoldenrodyellow;
+        }
+        .btn:hover {
+            background: saddlebrown;
+        }
+
+        .field {
+            width: 70%;
+            height: 30px;
+            font-size: 16px;
+            border: 1px solid #253737;
+            background: #ffffff;
+            padding: 10px 21px;
+            -webkit-border-radius: 0px;
+            -moz-border-radius: 0px;
+            border-radius: 0px;
+            color: saddlebrown;
+        }
+        .field:hover {
+            background: palegoldenrod;
+        }
+
+        .link {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            font-weight: 500;
+            text-decoration: none;
+            background-color: #331a00;
+            color: #ffffff;
+            padding: 5px;
+            border: 0 #78909C;
+            -webkit-border-radius: 0;
+            -moz-border-radius: 0;
+            border-radius: 0;
+            opacity: 0.8;
+        }
+
+        .link:hover {
+            color: gold;
+            text-decoration: underline;
+        }
+
+        .link2 {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            color: lightgoldenrodyellow;
+            text-decoration: none;
+        }
+        .link2:hover {
+            color: gold;
+            text-decoration: underline;
+        }
+
+        .link3 {
+            font-family: "Brush Script MT", "Monotype Corsiva", Mistral, cursive;
+            font-size: 20px;
+            font-weight: 600;
+            color: saddlebrown;
+            text-decoration: none;
+        }
+        .link3:hover {
+            color: gold;
+            text-decoration: underline;
+        }
