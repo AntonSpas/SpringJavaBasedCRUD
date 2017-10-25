@@ -2,7 +2,7 @@
 
 database - test 
 
-table - users 
+table - book
 
 user - root 
 
